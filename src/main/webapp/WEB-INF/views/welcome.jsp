@@ -38,6 +38,7 @@
 		<div class="left">
 			<div data-role="header" data-theme="e">
 				<h2>Welcome on board! THIS IS A DEMO FOR DEVOPS SIMULATION WITH TOOLS STACK</h2>
+				<h2>PUSH-01: 26Mar'16, 10:20AM</h2>
 			</div>
 			<div data-role="content" style="padding:2%;">
 				<h3>Scrum-it - a digital scrum board with touch technology</h3>
