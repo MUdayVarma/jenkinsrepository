@@ -69,8 +69,7 @@ We also have a nice little movie about Scrum-it: http://www.youtube.com/watch?v=
 
 Support
 -------
-
 Unfortunately, I do not have the time to support this project anymore.
-----------------------------------------------------------------------
 
-PUSH-01: 26Mar'16, 10:45AM, 12:07PM
+----------------------------------------------------------------------
+PUSH-01: 26Mar'16, 10:45AM, 12:07PM, 01:10PM
